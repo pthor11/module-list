@@ -8,3 +8,9 @@
 | @brickglobal/evolution-layer      |            | Layer integrate with Evolution Provider                |
 | @brickglobal/pragmatic-play-layer |            | Layer integrate with Pragmatic Play Provider           |
 | @brickglobal/dwallet              |            | Hybrid layer for dapps - Brick Master                  |
+
+
+Brick Proposals:
+
+1. coinlib (create crypto keypair, ...)
+2. benchmark (timing excecution for funtion inspecting ...)
